@@ -1,0 +1,242 @@
+{
+  "featured": {
+    "cover": "img083.jpg",
+    "whoThatGirl": [
+      "img014.jpg",
+      "img072.jpg"
+    ],
+    "momentWeBegan": [
+      "img001.jpg",
+      "img051.jpg"
+    ],
+    "firstTrip": [
+      "img038.jpg",
+      "img014.jpg",
+      "img093.jpg"
+    ],
+    "firstConversation": "img016.jpg",
+    "timeline": [
+      "img005.jpg",
+      "img035.jpg",
+      "img065.jpg",
+      "img095.jpg"
+    ],
+    "loveLetter": "img104.jpg",
+    "backCover": "img107.jpg"
+  },
+  "galleries": [
+    {
+      "title": "College Fest Feels",
+      "images": [
+        "img002.jpg",
+        "img003.jpg",
+        "img004.jpg",
+        "img006.jpg"
+      ]
+    },
+    {
+      "title": "Golden Hour Walks",
+      "images": [
+        "img007.jpg",
+        "img008.jpg",
+        "img009.jpg",
+        "img010.jpg"
+      ]
+    },
+    {
+      "title": "Silly Face Diaries",
+      "images": [
+        "img011.jpg",
+        "img012.jpg",
+        "img013.jpg",
+        "img015.jpg"
+      ]
+    },
+    {
+      "title": "Traditional Vibes",
+      "images": [
+        "img017.jpg",
+        "img018.jpg",
+        "img019.jpg",
+        "img020.jpg"
+      ]
+    },
+    {
+      "title": "Beach Day Chronicles",
+      "images": [
+        "img021.jpg",
+        "img022.jpg",
+        "img023.jpg",
+        "img024.jpg"
+      ]
+    },
+    {
+      "title": "Night Lights & Lanterns",
+      "images": [
+        "img025.jpg",
+        "img026.jpg",
+        "img027.jpg",
+        "img028.jpg"
+      ]
+    },
+    {
+      "title": "Home & Mirror Selfies",
+      "images": [
+        "img029.jpg",
+        "img030.jpg",
+        "img031.jpg",
+        "img032.jpg"
+      ]
+    },
+    {
+      "title": "Family Time",
+      "images": [
+        "img033.jpg",
+        "img034.jpg",
+        "img036.jpg",
+        "img037.jpg"
+      ]
+    },
+    {
+      "title": "Random Cuteness",
+      "images": [
+        "img039.jpg",
+        "img040.jpg",
+        "img041.jpg",
+        "img042.jpg"
+      ]
+    },
+    {
+      "title": "Candid Moments",
+      "images": [
+        "img043.jpg",
+        "img044.jpg",
+        "img045.jpg",
+        "img046.jpg"
+      ]
+    },
+    {
+      "title": "Throwback Reel",
+      "images": [
+        "img047.jpg",
+        "img048.jpg",
+        "img049.jpg",
+        "img050.jpg"
+      ]
+    },
+    {
+      "title": "Just Us",
+      "images": [
+        "img052.jpg",
+        "img053.jpg",
+        "img054.jpg",
+        "img055.jpg"
+      ]
+    },
+    {
+      "title": "Little Adventures",
+      "images": [
+        "img056.jpg",
+        "img057.jpg",
+        "img058.jpg",
+        "img059.jpg"
+      ]
+    },
+    {
+      "title": "Smiles & Sunsets",
+      "images": [
+        "img060.jpg",
+        "img061.jpg",
+        "img062.jpg",
+        "img063.jpg"
+      ]
+    },
+    {
+      "title": "Forever Favorites",
+      "images": [
+        "img064.jpg",
+        "img066.jpg",
+        "img067.jpg",
+        "img068.jpg"
+      ]
+    },
+    {
+      "title": "Unfiltered & Happy",
+      "images": [
+        "img069.jpg",
+        "img070.jpg",
+        "img071.jpg",
+        "img073.jpg"
+      ]
+    },
+    {
+      "title": "Ocean Breeze Days",
+      "images": [
+        "img074.jpg",
+        "img075.jpg",
+        "img076.jpg",
+        "img077.jpg"
+      ]
+    },
+    {
+      "title": "Festive Frames",
+      "images": [
+        "img078.jpg",
+        "img079.jpg",
+        "img080.jpg",
+        "img081.jpg"
+      ]
+    },
+    {
+      "title": "Laughing Fit Diaries",
+      "images": [
+        "img082.jpg",
+        "img084.jpg",
+        "img085.jpg",
+        "img086.jpg"
+      ]
+    },
+    {
+      "title": "Everyday Magic",
+      "images": [
+        "img087.jpg",
+        "img088.jpg",
+        "img089.jpg",
+        "img090.jpg"
+      ]
+    },
+    {
+      "title": "Caf\u00e9 Dates & Chill",
+      "images": [
+        "img091.jpg",
+        "img092.jpg",
+        "img094.jpg",
+        "img096.jpg"
+      ]
+    },
+    {
+      "title": "City Lights",
+      "images": [
+        "img097.jpg",
+        "img098.jpg",
+        "img099.jpg",
+        "img100.jpg"
+      ]
+    },
+    {
+      "title": "Weekend Wanderings",
+      "images": [
+        "img101.jpg",
+        "img102.jpg",
+        "img103.jpg",
+        "img105.jpg"
+      ]
+    },
+    {
+      "title": "Sunset Chasers",
+      "images": [
+        "img106.jpg"
+      ]
+    }
+  ]
+}

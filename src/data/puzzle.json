@@ -1,0 +1,8 @@
+{
+  "puzzle": {
+    "image": "/assets/images/puzzle_1.jpeg",
+    "grid": 5,
+    "completionMessage": "Every piece of this puzzle reminds me how perfectly you fit into my life.",
+    "completionSubtext": "Just like us — made for each other."
+  }
+}

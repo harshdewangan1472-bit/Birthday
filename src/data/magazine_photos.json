@@ -1,0 +1,106 @@
+{
+  "featured": {
+    "cover": "photo_3.jpeg",
+    "whoThatGirl": ["photo_5.jpeg", "photo_8.jpeg"],
+    "momentWeBegan": ["photo_10.jpeg", "photo_15.jpeg"],
+    "firstTrip": ["photo_20.jpeg", "photo_25.jpeg", "photo_30.jpeg"],
+    "firstConversation": "photo_35.jpeg",
+    "timeline": ["photo_12.jpeg", "photo_40.jpeg", "photo_60.jpeg", "photo_85.jpeg"],
+    "loveLetter": "photo_100.jpeg",
+    "backCover": "photo_109.jpeg"
+  },
+  "galleries": [
+    {
+      "title": "Silly & Candid",
+      "images": ["photo_4.jpeg", "photo_6.jpeg", "photo_7.jpeg", "photo_9.jpeg"]
+    },
+    {
+      "title": "Golden Hour Vibes",
+      "images": ["photo_11.jpeg", "photo_13.jpeg", "photo_14.jpeg", "photo_16.jpeg"]
+    },
+    {
+      "title": "Pure Joy",
+      "images": ["photo_17.jpeg", "photo_18.jpeg", "photo_19.jpeg", "photo_21.jpeg"]
+    },
+    {
+      "title": "Our Little World",
+      "images": ["photo_22.jpeg", "photo_23.jpeg", "photo_24.jpeg", "photo_26.jpeg"]
+    },
+    {
+      "title": "Throwback Feels",
+      "images": ["photo_27.jpeg", "photo_28.jpeg", "photo_29.jpeg", "photo_31.jpeg"]
+    },
+    {
+      "title": "Unfiltered & Happy",
+      "images": ["photo_32.jpeg", "photo_33.jpeg", "photo_34.jpeg", "photo_36.jpeg"]
+    },
+    {
+      "title": "Smiles & Sunsets",
+      "images": ["photo_37.jpeg", "photo_38.jpeg", "photo_39.jpeg", "photo_41.jpeg"]
+    },
+    {
+      "title": "Candid Moments",
+      "images": ["photo_42.jpeg", "photo_43.jpeg", "photo_44.jpeg", "photo_45.jpeg"]
+    },
+    {
+      "title": "Random Cuteness",
+      "images": ["photo_46.jpeg", "photo_47.jpeg", "photo_48.jpeg", "photo_49.jpeg"]
+    },
+    {
+      "title": "Adventure Days",
+      "images": ["photo_50.jpeg", "photo_51.jpeg", "photo_52.jpeg", "photo_53.jpeg"]
+    },
+    {
+      "title": "Laughing Fit Diaries",
+      "images": ["photo_54.jpeg", "photo_55.jpeg", "photo_56.jpeg", "photo_57.jpeg"]
+    },
+    {
+      "title": "Just Us",
+      "images": ["photo_58.jpeg", "photo_59.jpeg", "photo_61.jpeg", "photo_62.jpeg"]
+    },
+    {
+      "title": "Night Lights",
+      "images": ["photo_63.jpeg", "photo_64.jpeg", "photo_65.jpeg", "photo_66.jpeg"]
+    },
+    {
+      "title": "Festive Frames",
+      "images": ["photo_67.jpeg", "photo_68.jpeg", "photo_69.jpeg", "photo_70.jpeg"]
+    },
+    {
+      "title": "Mirror Selfies",
+      "images": ["photo_71.jpeg", "photo_72.jpeg", "photo_73.jpeg", "photo_74.jpeg"]
+    },
+    {
+      "title": "Forever Favorites",
+      "images": ["photo_75.jpeg", "photo_76.jpeg", "photo_77.jpeg", "photo_78.jpeg"]
+    },
+    {
+      "title": "Café Dates & Chill",
+      "images": ["photo_79.jpeg", "photo_80.jpeg", "photo_81.jpeg", "photo_82.jpeg"]
+    },
+    {
+      "title": "City Lights",
+      "images": ["photo_83.jpeg", "photo_84.jpeg", "photo_86.jpeg", "photo_87.jpeg"]
+    },
+    {
+      "title": "Weekend Wanderings",
+      "images": ["photo_88.jpeg", "photo_89.jpeg", "photo_90.jpeg", "photo_91.jpeg"]
+    },
+    {
+      "title": "Sunset Chasers",
+      "images": ["photo_92.jpeg", "photo_93.jpeg", "photo_94.jpeg", "photo_95.jpeg"]
+    },
+    {
+      "title": "Everyday Magic",
+      "images": ["photo_96.jpeg", "photo_97.jpeg", "photo_98.jpeg", "photo_99.jpeg"]
+    },
+    {
+      "title": "Ocean Breeze Days",
+      "images": ["photo_101.jpeg", "photo_102.jpeg", "photo_103.jpeg", "photo_104.jpeg"]
+    },
+    {
+      "title": "Little Adventures",
+      "images": ["photo_105.jpeg", "photo_106.jpeg", "photo_107.jpeg", "photo_108.jpeg"]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "question": "Where did we first talk for hours without realizing the time?",
+      "hint": "Think about the very beginning...",
+      "answer": "Our first conversation",
+      "memory": "I remember staying up way too late that night, not wanting the conversation to end. That was the night I knew you were someone special.",
+      "image": "/assets/images/memory1.jpg",
+      "wish": "May every conversation we have always feel like that first one — endless and magical."
+    },
+    {
+      "id": 2,
+      "question": "What was our funniest moment together?",
+      "hint": "The one that still makes you laugh...",
+      "answer": "That hilarious day",
+      "memory": "We laughed until our stomachs hurt and tears ran down our faces. I want to keep making moments like that with you forever.",
+      "image": "/assets/images/memory2.jpg",
+      "wish": "May your life always be full of belly laughs and happy tears."
+    },
+    {
+      "id": 3,
+      "question": "When did I realize I was completely in love with you?",
+      "hint": "It was a quiet, ordinary moment...",
+      "answer": "When I saw the real you",
+      "memory": "It wasn't a grand moment. It was small and quiet. I looked at you and just knew — this person is home.",
+      "image": "/assets/images/memory3.jpg",
+      "wish": "May you always know that my love for you only gets stronger with every day."
+    },
+    {
+      "id": 4,
+      "question": "What is the little thing you do that melts my heart every time?",
+      "hint": "You probably don't even notice you do it...",
+      "answer": "Your gentle smile",
+      "memory": "You do this thing where you smile to yourself when you're happy about something — and every time I see it, my heart skips a beat.",
+      "image": "/assets/images/memory4.jpg",
+      "wish": "May your smile always be as bright and effortless as it is today."
+    },
+    {
+      "id": 5,
+      "question": "What is the most adventurous thing we've done together?",
+      "hint": "The one that pushed us both out of our comfort zone...",
+      "answer": "Our greatest adventure",
+      "memory": "I was nervous, you were excited — and in the end it became one of my most treasured stories to tell.",
+      "image": "/assets/images/memory5.jpg",
+      "wish": "May your 21st year be the most adventurous chapter of your life yet."
+    },
+    {
+      "id": 6,
+      "question": "What is my favorite thing we do together on a quiet evening?",
+      "hint": "Simple, cozy, just us...",
+      "answer": "Our cozy moments",
+      "memory": "No plans, nowhere to be — just us, together. Those quiet evenings are some of the most beautiful moments of my life.",
+      "image": "/assets/images/memory6.jpg",
+      "wish": "May every evening bring you peace, warmth, and the feeling of being completely loved."
+    }
+  ]
+}

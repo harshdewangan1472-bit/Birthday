@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is my favorite thing about you?",
+      "options": ["Your smile", "Your laugh", "Your kindness", "Everything about you"],
+      "correct": 3,
+      "response": "YES! Everything about you is my favorite thing. I could never pick just one.",
+      "wish": "May your heart always know how deeply and completely you are loved."
+    },
+    {
+      "id": 2,
+      "question": "What do I think when I see you for the first time each day?",
+      "options": ["She looks tired", "She is so beautiful", "What's for breakfast?", "I'm the luckiest person alive"],
+      "correct": 3,
+      "response": "Every single morning — I am the luckiest person in the entire world.",
+      "wish": "May every morning of your 21st year begin with joy and end with love."
+    },
+    {
+      "id": 3,
+      "question": "What nickname do I think suits you perfectly?",
+      "options": ["My Queen", "My Sunshine", "My Everything", "All of the above"],
+      "correct": 3,
+      "response": "All of the above — because you are my queen, my sunshine, and my everything.",
+      "wish": "May you always feel like the queen you truly are."
+    },
+    {
+      "id": 4,
+      "question": "How do I feel when you laugh?",
+      "options": ["Happy", "Warm inside", "Like the world stops", "Like I want to make you laugh forever"],
+      "correct": 3,
+      "response": "Your laugh is the most beautiful sound in the world. I want to hear it forever.",
+      "wish": "May laughter fill every corner of your beautiful life."
+    },
+    {
+      "id": 5,
+      "question": "What is my favorite memory with you?",
+      "options": ["Our first meeting", "Our first adventure", "Just talking for hours", "Every single moment with you"],
+      "correct": 3,
+      "response": "I cannot pick just one — every moment with you is my favorite memory.",
+      "wish": "May we create a thousand more memories to treasure forever."
+    }
+  ]
+}

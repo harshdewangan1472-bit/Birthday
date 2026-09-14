@@ -1,0 +1,46 @@
+{
+  "wishes": [
+    {
+      "id": 1,
+      "emoji_alt": "star",
+      "title": "Wish #1",
+      "text": "May every single day of your 21st year be filled with love, laughter, and all the little moments that make life magical.",
+      "color": "#FFB6C1"
+    },
+    {
+      "id": 2,
+      "emoji_alt": "heart",
+      "title": "Wish #2",
+      "text": "I wish you all the confidence in the world — because you are capable of absolutely anything you set your beautiful mind to.",
+      "color": "#FFD6E8"
+    },
+    {
+      "id": 3,
+      "emoji_alt": "sparkle",
+      "title": "Wish #3",
+      "text": "May your smile never fade, your heart always be full, and your dreams always find a way to come true.",
+      "color": "#FFEAA7"
+    },
+    {
+      "id": 4,
+      "emoji_alt": "moon",
+      "title": "Wish #4",
+      "text": "You deserve every good thing life has to offer — happiness, success, adventures, and a love that never stops growing.",
+      "color": "#DFF9FB"
+    },
+    {
+      "id": 5,
+      "emoji_alt": "sun",
+      "title": "Wish #5",
+      "text": "I wish for you a year full of new beginnings — bold choices, beautiful surprises, and memories worth keeping forever.",
+      "color": "#F3E5F5"
+    },
+    {
+      "id": 6,
+      "emoji_alt": "flower",
+      "title": "Wish #6",
+      "text": "21 looks absolutely stunning on you. Here's to the woman you've become and everything you're still going to be.",
+      "color": "#FFB6C1"
+    }
+  ]
+}

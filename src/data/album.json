@@ -1,0 +1,58 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "src": "/assets/images/photo1.jpg",
+      "caption": "The day everything changed",
+      "date": "Our First Day",
+      "memory": "I remember this moment like it was yesterday. The way you smiled made me forget everything else in the world.",
+      "rotation": -2,
+      "sticker": "heart"
+    },
+    {
+      "id": 2,
+      "src": "/assets/images/photo2.jpg",
+      "caption": "My favorite adventure with you",
+      "date": "Best Day Ever",
+      "memory": "We laughed so much that day. I knew then that every adventure is better when you're beside me.",
+      "rotation": 3,
+      "sticker": "star"
+    },
+    {
+      "id": 3,
+      "src": "/assets/images/photo3.jpg",
+      "caption": "Just the two of us",
+      "date": "A Perfect Moment",
+      "memory": "No filters, no plans — just us being completely ourselves. This is my favorite kind of day.",
+      "rotation": -1,
+      "sticker": "flower"
+    },
+    {
+      "id": 4,
+      "src": "/assets/images/photo4.jpg",
+      "caption": "You & your beautiful smile",
+      "date": "Always Glowing",
+      "memory": "I took this photo because I never want to forget the way you look when you're genuinely happy.",
+      "rotation": 2,
+      "sticker": "sparkle"
+    },
+    {
+      "id": 5,
+      "src": "/assets/images/photo5.jpg",
+      "caption": "The little moments",
+      "date": "Everyday Magic",
+      "memory": "It's the small moments like this one that I treasure the most. With you, ordinary becomes extraordinary.",
+      "rotation": -3,
+      "sticker": "heart"
+    },
+    {
+      "id": 6,
+      "src": "/assets/images/photo6.jpg",
+      "caption": "My whole world",
+      "date": "Forever & Always",
+      "memory": "This photo says everything I never know how to put into words. You are my everything.",
+      "rotation": 1,
+      "sticker": "star"
+    }
+  ]
+}

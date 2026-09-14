@@ -1,0 +1,70 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "label": "Cute Wish",
+      "color": "#FFB6C1",
+      "textColor": "#fff",
+      "reward": {
+        "title": "A Cute Birthday Wish",
+        "message": "I wish that every time you look in the mirror today, you see exactly what I see — the most beautiful, wonderful, incredible person in the entire world.",
+        "type": "wish"
+      }
+    },
+    {
+      "id": 2,
+      "label": "Virtual Hug",
+      "color": "#FFD6E8",
+      "textColor": "#c0396a",
+      "reward": {
+        "title": "A Big Virtual Hug",
+        "message": "Arms wide open, wrapping you in the warmest, tightest, most love-filled hug imaginable. Hold on a little longer... there you go. Happy Birthday.",
+        "type": "hug"
+      }
+    },
+    {
+      "id": 3,
+      "label": "Secret Memory",
+      "color": "#FFEAA7",
+      "textColor": "#a0690a",
+      "reward": {
+        "title": "A Secret Memory",
+        "message": "Do you remember the first time you made me genuinely laugh? I thought to myself — I never want this to end. I still feel that way every day.",
+        "type": "memory"
+      }
+    },
+    {
+      "id": 4,
+      "label": "Romantic Note",
+      "color": "#DFF9FB",
+      "textColor": "#0a7a8a",
+      "reward": {
+        "title": "A Romantic Note",
+        "message": "In every life I live, in every story I get to tell — I hope I always find my way back to you. You are the best thing that ever happened to me.",
+        "type": "note"
+      }
+    },
+    {
+      "id": 5,
+      "label": "Birthday Blessing",
+      "color": "#F3E5F5",
+      "textColor": "#7b2fa0",
+      "reward": {
+        "title": "A Birthday Blessing",
+        "message": "May this year open every door you've been waiting for. May you be surrounded by love, lit up by joy, and proud of the incredible woman you are becoming.",
+        "type": "blessing"
+      }
+    },
+    {
+      "id": 6,
+      "label": "Surprise Note",
+      "color": "#FF85A2",
+      "textColor": "#fff",
+      "reward": {
+        "title": "A Little Surprise",
+        "message": "You are loved more than any words can hold. More than any song can carry. More than any gift can show. Just... more. Always more.",
+        "type": "surprise"
+      }
+    }
+  ]
+}
